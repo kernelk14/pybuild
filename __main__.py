@@ -10,6 +10,8 @@ from libptsd import *
 
 # printf("Hello World!\n");
 
+# NOTE: The function calls are hardcoded for now.
+
 buildname = "build.py"
 
 def lookForBuild(buildname):
